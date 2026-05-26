@@ -22,4 +22,4 @@ npx expo start --web
 ```
 
 ## Desenvolvido por
-Guilherme
+Guilherme Matheus Silva Oliveira
