@@ -15,8 +15,11 @@ Aplicativo desenvolvido em React Native com Expo para busca de times da NBA.
 - API: balldontlie.io
 
 ## Como rodar
+
+```bash
 npm install
 npx expo start --web
+```
 
 ## Desenvolvido por
 Guilherme
